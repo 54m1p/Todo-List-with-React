@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Read a book",
+    "isEditable": false
+  },
+  {
+    "id": 2,
+    "name": "Go for a walk",
+    "isEditable": false
+  },
+  {
+    "id": 3,
+    "name": "Feed the dog",
+    "isEditable": false
+  },
+  {
+    "id": 4,
+    "name": "Water the plants",
+    "isEditable": false
+  },
+  {
+    "id": 5,
+    "name": "Buy groceries",
+    "isEditable": false
+  }
+]

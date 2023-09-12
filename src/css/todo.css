@@ -1,0 +1,11 @@
+.todo-wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #5f5fff !important;
+}
+
+tr{
+    margin: 10px;
+}
